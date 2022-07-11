@@ -1,2 +1,2 @@
 # understanding-nlp
-understanding nlp using movie review dataset
+Applying Natural language processing on a movie reivew dataset
