@@ -3,7 +3,7 @@
 ## Text Classification on the Newsgroup dataset
 This dataset is a collection newsgroup documents. The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
 
-The dataset can be taken from (kaggle)[https://www.kaggle.com/datasets/crawford/20-newsgroups]
+The dataset can be taken from [kaggle](https://www.kaggle.com/datasets/crawford/20-newsgroups)
 
 1. In this project we have preprocessed the dataset to create features.
 2. We have considered word length of more than 3 using regex functions after removing stop words to create instances.
